@@ -1,0 +1,16 @@
+numpy
+pandas
+matplotlib
+osmnx
+networkx
+geopandas
+pyogrio
+shapely
+pyarrow
+duckdb
+tqdm
+igraph
+ipympl
+jupyter
+ipykernel
+tensorflow[and-cuda]
